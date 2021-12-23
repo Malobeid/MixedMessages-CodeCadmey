@@ -17,7 +17,7 @@ The aim of this project is to create a random message generator program. Every t
 -Ensure that you have Node.js and downloaded and installed beforehand.
 -Choose a local directory where the files will be stored, and then use the GitBash terminal navigate to the directory:
 
-$ cd yourDirectory
+-$ cd yourDirectory
 
 Then simply copy the following code and paste into the terminal:
 $ git clone ...
@@ -26,7 +26,7 @@ $ cd MixedMessages
 ## Launch
 The JavaScript code should be able to run on any Computer, Use node.js to be able to run it locally and use a program like VSCode.
 
-$ node MixedMessages
+-$ node MixedMessages
 
 
 ## Status
